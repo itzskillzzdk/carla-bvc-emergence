@@ -1,0 +1,15 @@
+# virtual env
+/.venv
+/venv
+/.env
+/env
+
+# pyenv file
+.python-version
+
+*/__pycache__
+
+/results
+
+run_dataset_info.ipynb
+run_dataset.csv
